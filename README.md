@@ -1,4 +1,5 @@
-[bom.csv](https://github.com/user-attachments/files/28046267/bom.csv)
+flightsensordata - FIRMWARE
+
 # Flight Sensor
 an all-in one flight tracker and display. Flight Sensor will track and display all the surrounding aircraft next to you, it will always show some sort of aircraft, no matter how far they are.
 
