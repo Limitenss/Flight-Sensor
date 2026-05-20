@@ -15,10 +15,8 @@ My project also utilizes a 1100 mAh battery, this is used to contain battery whe
 ## Image
 <img width="825" height="501" alt="Screenshot_38" src="https://github.com/user-attachments/assets/96c4655e-e1d9-40d4-abfb-9cd2823fc54b" />
 
-| Name | Purpose | Qty | Total (USD) | Link | Distributor |
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |---|---|---|---|---|---|
 | M2.5 x 5mm (50Pcs) Pan Head Machine Screws | Screws (might seem like a lot, but it is the least i can find, also might have to change case later to include more screws to hold it together.) | 1 | 5.99 | https://www.amazon.com/Machine-Stainless-Phillips-Hardware-Fastener/dp/B0G58QMMKN?crid=3PORVO2ETKI00&dib=eyJ2IjoiMSJ9.DtSXPZIWD_0X9g-PynZxlJZl7tEq0tWMx-jvyFlFw1Ejt9p0was2CWKge9PtNOvkXTZMWFc5w9lYNvsjl4X2jjHYz67jnC8EGRYYYSQzOtb_xkmc4258zR6RJvuHpN_4lhqt9B7ycZJShIfu13YX1HpGm5kHddWRUuV4AcliC3ww4Ecal1SA0WjTsdhmuRFnEHCjRDZaCrym54jM8iQSVCQgclomUOFYFNMfoGrmDq0E1VN3Ab7OWUpvDsyQBuSTjH7Sa_O2jjiims0tCRiYY0PhVAnba-xxsb-fFVmEH14.jub4UWEzeyI82899hubZwLi0hHIWomVfRc_Weump-1Y&dib_tag=se&keywords=m2.5%2Bx%2B8mm%2Bpan%2Bhead%2Bmachine%2Bscrews&qid=1779253804&s=hi&sprefix=%2Ctools%2C560&sr=1-3&th=1 | Amazon |
 | 3.7V Lithium Rechargeable 1S 1C LiPo Battery | Battery(portable) | 1 | 9.97 | https://store.rokland.com/products/3-7v-1100mah-lithium-rechargeable-battery-1s-1c-lipo-battery-with-protection-board-with-micro-jst-1-25-plug?variant=40838520242259 | Rokland |
 | T-Display S3 | Micro-Controller + Display | 1 | 9.04 | https://lilygo.cc/en-us/products/t-display-s3 | LILYGO |
-| Tax (USD) |  | 1 | 0.49 |  |  |
-| Shipping (USD) |  | 1 | 7.50 |  |  |
