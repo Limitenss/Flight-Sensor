@@ -5,7 +5,7 @@ an all-in one flight tracker and display. Flight Sensor will track and display a
 Flight Sensor utilizes public ADS-B data to display the closest planes surrounding you. Flight Sensor will show an aircraft, no matter how far you are, this is done by utilizing WIFI.
 
 ## Case
-The case was fully made in Fusion 360, it took me lots of time to figure out dimensions, fittings, hardware, and more.
+The case was fully made in Fusion 360, it took me lots of time to figure out dimensions, fittings, hardware, and more. (FlightSensorbyLimitens.f3d)
 
 ## Hardware
 The Flight Sensor uses a LILYGO T-Display S3, this is used as the microcontroller & The Display. I had chosen the T-Display because I do not have to waste time trying to find perfect fitting displays, the LILYGO's display is perfect for my project.
